@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07CSharp运算符", "07运�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08CSharp数学", "08CSharp数学\08CSharp数学.csproj", "{91093420-4E26-4B92-A226-A3CC6779D81F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09字符串", "09字符串\09字符串.csproj", "{0036D66C-1004-4DA2-8C46-B460ACCD64A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{91093420-4E26-4B92-A226-A3CC6779D81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91093420-4E26-4B92-A226-A3CC6779D81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91093420-4E26-4B92-A226-A3CC6779D81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0036D66C-1004-4DA2-8C46-B460ACCD64A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0036D66C-1004-4DA2-8C46-B460ACCD64A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0036D66C-1004-4DA2-8C46-B460ACCD64A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0036D66C-1004-4DA2-8C46-B460ACCD64A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

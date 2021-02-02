@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{91093420-4E26-4B92-A226-A3CC6779D81F}</ProjectGuid>
+    <ProjectGuid>{0036D66C-1004-4DA2-8C46-B460ACCD64A5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_08CSharp数学</RootNamespace>
-    <AssemblyName>08CSharp数学</AssemblyName>
+    <RootNamespace>_09字符串</RootNamespace>
+    <AssemblyName>09字符串</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
